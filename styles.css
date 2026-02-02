@@ -13,3 +13,11 @@ body {
 main {
   text-align: center;
 }
+
+button {
+  background-color: rgb(255, 136, 0);
+  color: white;
+  margin: 10px;
+  padding: 8px;
+  border-radius: 8px;
+}
